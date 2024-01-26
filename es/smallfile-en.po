@@ -12,7 +12,7 @@ msgstr "Una captura de pantalla del sitio web."
 
 #: /views/partials/footer.j2:74
 msgid "AMP Brand Materials"
-msgstr ""
+msgstr "Materiales de la marca AMP"
 
 #: /content/amp-dev/documentation/guides-and-tutorials/learn/amp-caches-and-cors/_blueprint.yaml
 msgid "AMP Caches & CORS"
@@ -28,7 +28,7 @@ msgstr "Cumbre de contribuyentes de AMP 2019"
 
 #: /views/partials/banner.j2:5
 msgid "AMP Contributor Summit 2019 Applications Now Open"
-msgstr ""
+msgstr "Las solicitudes para la Cumbre de Colaboradores de AMP 2019 ya están abiertas"
 
 #: /views/partials/footer.j2:43
 msgid "AMP Framework"
